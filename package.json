@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-app-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "",  
   "main": "index.js",
   "scripts": {
     "build": "tailwind -i ./style.css -o  ./css/main.css ",
@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.2.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
 }
