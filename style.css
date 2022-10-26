@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import 'animate.css';
 
 body {
     margin: 0;
@@ -59,3 +60,5 @@ input::-webkit-inner-spin-button {
     align-items: center;
     height: 40vh;
 }
+
+ 
